@@ -1,4 +1,4 @@
-## Decrease Money Cracking ( D M C )
+## Decrease Money Cracking ( DMC )
 
 💵 기획의도 : 어디로 돈이 새어나가는지를 일일이 기록하면쓸데없는 지출을 기억하고 절약할 수 있다.
 
