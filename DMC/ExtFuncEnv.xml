@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExternalFunctionEnvironmentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <ExternalFunctionEnvironment>
+      <RegNumber>googlemap</RegNumber>
+      <ServiceName>googlemap</ServiceName>
+      <Address>maps.googleapis.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <SSendStructType>1</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <UserAgent />
+      <ContentType />
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers>
+        <HeaderItem>
+          <Name>X-NCP-APIGW-API-KEY-ID</Name>
+          <Value>3m57eeblff</Value>
+        </HeaderItem>
+        <HeaderItem>
+          <Name>X-NCP-APIGW-API-KEY</Name>
+          <Value>8CTgrvKrQiqbVq9aAc2Zfrz7X6h6EGkuBAqWoVZC</Value>
+        </HeaderItem>
+      </Headers>
+      <Authorization />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>googlemap</RegNumber>
+      <ServiceName>googlemap</ServiceName>
+      <Address>maps.googleapis.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString />
+      <SSendStructType>1</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>filedown</RegNumber>
+      <ServiceName>filedown</ServiceName>
+      <Address>store.smartmaker.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>utf-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>5</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>SendMessage</RegNumber>
+      <ServiceName>SendMessage</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>UTF-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>FILE_UPLOAD</RegNumber>
+      <ServiceName />
+      <Address />
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>utf-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>0</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>SelectLicense</RegNumber>
+      <ServiceName>SelectLicense</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>License</RegNumber>
+      <ServiceName>License</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>NAVER</RegNumber>
+      <ServiceName>NAVER</ServiceName>
+      <Address>openapi.naver.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>0</SReceiveStructType>
+      <UserAgent />
+      <ContentType>application/x-www-form-urlencoded</ContentType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers>
+        <HeaderItem>
+          <Name>X-NCP-APIGW-API-KEY-ID</Name>
+          <Value>3m57eeblff</Value>
+        </HeaderItem>
+        <HeaderItem>
+          <Name>X-NCP-APIGW-API-KEY</Name>
+          <Value>8CTgrvKrQiqbVq9aAc2Zfrz7X6h6EGkuBAqWoVZC</Value>
+        </HeaderItem>
+      </Headers>
+      <Authorization />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>googlemap</RegNumber>
+      <ServiceName>googlemap</ServiceName>
+      <Address>maps.googleapis.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString />
+      <SSendStructType>1</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>filedown</RegNumber>
+      <ServiceName>filedown</ServiceName>
+      <Address>store.smartmaker.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>utf-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>5</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>SendMessage</RegNumber>
+      <ServiceName>SendMessage</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>UTF-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>FILE_UPLOAD</RegNumber>
+      <ServiceName />
+      <Address />
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>utf-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>0</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>SelectLicense</RegNumber>
+      <ServiceName>SelectLicense</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>License</RegNumber>
+      <ServiceName>License</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>googlemap</RegNumber>
+      <ServiceName>googlemap</ServiceName>
+      <Address>maps.googleapis.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString />
+      <SSendStructType>1</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>filedown</RegNumber>
+      <ServiceName>filedown</ServiceName>
+      <Address>store.smartmaker.com</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>utf-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>5</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>SendMessage</RegNumber>
+      <ServiceName>SendMessage</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>UTF-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>FILE_UPLOAD</RegNumber>
+      <ServiceName />
+      <Address />
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>1</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>utf-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>0</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>SelectLicense</RegNumber>
+      <ServiceName>SelectLicense</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+    <ExternalFunctionEnvironment>
+      <RegNumber>License</RegNumber>
+      <ServiceName>License</ServiceName>
+      <Address>license.smartmaker.com:8080</Address>
+      <SServiceType>0</SServiceType>
+      <STransmitService>0</STransmitService>
+      <SRequestType>0</SRequestType>
+      <EncodingString>utf-8</EncodingString>
+      <DecodingString>UTF-8</DecodingString>
+      <SSendStructType>2</SSendStructType>
+      <SReceiveStructType>1</SReceiveStructType>
+      <URLEncoding>false</URLEncoding>
+      <OpenAPI>true</OpenAPI>
+      <Headers />
+      <EncodingHTML>false</EncodingHTML>
+    </ExternalFunctionEnvironment>
+  </List>
+</ExternalFunctionEnvironmentList>
