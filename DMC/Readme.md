@@ -4,6 +4,7 @@
 
 💵 타겟 : 용돈을 받고 사는 학생, 절약정신이 부족한 사람
 
+
 📱 0. Main Page
 
 ![main](https://user-images.githubusercontent.com/59694789/110213165-30b7e980-7ee2-11eb-8ea3-039d55cf9c60.PNG)
