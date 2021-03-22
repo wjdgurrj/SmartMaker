@@ -17,11 +17,11 @@
 
 > 로그인 시 자동로그인(체크)하면 다음번에 앱 접속시 자동로그인 기능 활성화
 
+![로그인](https://user-images.githubusercontent.com/59694789/111997975-eaf45580-8b5e-11eb-88bb-49d1771513f3.jpg)
+![자동로그인](https://user-images.githubusercontent.com/59694789/111997989-ecbe1900-8b5e-11eb-89ac-f3443e910740.jpg)
 
 
 > 내 정보 수정시, 비밀번호 확인 후 정보 조회 가능
-
-
 
 
 
