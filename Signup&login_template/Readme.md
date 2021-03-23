@@ -23,6 +23,10 @@
 
 > 내 정보 수정시, 비밀번호 확인 후 정보 조회 가능
 
+![비밀번호확인](https://user-images.githubusercontent.com/59694789/112155560-c2d12900-8c28-11eb-95ea-89af5c0086c4.jpg)
+![비밀번호 일치](https://user-images.githubusercontent.com/59694789/112155555-c2389280-8c28-11eb-951c-b2829c82c2fd.jpg)
+
+
 
 
 
